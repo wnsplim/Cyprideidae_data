@@ -1,0 +1,7 @@
+rv pv
+mst_l_pearson 0.226 0.358
+mst_l_spearman -0.2 0.658
+lng_r_pearson -0.17 0.608
+lng_r_spearman -0.308 0.693
+lat_r_pearson 0.121 0.423
+lat_r_spearman 0.2 0.392
